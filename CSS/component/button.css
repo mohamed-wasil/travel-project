@@ -1,0 +1,28 @@
+.btn-1 {
+    background-color: var(--main-color);
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 600;
+    padding: 10px 40px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    transition: var(--main-transition);
+}
+
+.btn-1:hover {
+    color: var(--main-color);
+    border-color: var(--main-color);
+    background-color: transparent;
+}
+
+.btn-2 {
+    padding: 12px 20px;
+    right: -146px;
+    top: 40%;
+    width: 134px;
+}
+
+ .btn-2:hover {
+    border-color: transparent;
+    box-shadow: 0 0 5px 0 var(--main-color);
+}
