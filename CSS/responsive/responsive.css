@@ -376,7 +376,7 @@
 
     /* start home  */
     .home {
-        height: 140vh;
+        height: 170vh;
     }
 
 
@@ -504,7 +504,7 @@
 @media screen and (max-width: 576px) {
 
     .home {
-        height: 160vh;
+        height: 150vh;
     }
 
     .home .home__title {
@@ -620,7 +620,7 @@
 
 @media screen and (max-width: 525px) {
     .home {
-        height: 180vh;
+        height: 165vh;
     }
 }
 
@@ -635,9 +635,9 @@
 }
 
 /* start xs  */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 376px) {
     .home {
-        height: 180vh;
+        height: 165vh;
     }
 
     /* start cards  */
@@ -653,7 +653,7 @@
 /* end xs  */
 @media screen and (max-width: 320px) {
     .home {
-        height: 170vh;
+        height: 180vh;
     }
     .news-side .box-6 .social .links li {
         width: 40px;
